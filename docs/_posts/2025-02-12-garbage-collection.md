@@ -3,11 +3,20 @@ layout: post
 title:  "Garbage Collection"
 ---
 
+
+# Problem
+
 Stuff piling up
 
-Clear it out
+Getting stale
 
 Don't want to maintain a file that I have to find and append to
+
+# Approach
+
+Stream versus todo list
+
+Clear it out on a regular basis
 
 # Projects
 
