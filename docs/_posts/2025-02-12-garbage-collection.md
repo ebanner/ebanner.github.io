@@ -3,28 +3,22 @@ layout: post
 title:  "Garbage Collection"
 ---
 
+Stuff piles up and gets stale. I don't want to maintain a file that I have to
+find every time I want to append something to it.
 
-# Problem
+So instead of viewing my stuff as a todo list that I need to get through, I view
+it as a stream and clear it out on a regular basis.
 
-Stuff piling up
+Here's a video demo of how I do this with [YouTube videos](https://github.com/ebanner/archive-youtube-playlist):
 
-Getting stale
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7sDBBOyIEOA" frameborder="0" allowfullscreen></iframe>
 
-Don't want to maintain a file that I have to find and append to
+I also do it with [email](https://github.com/ebanner/gmail-auto-archive-daily).
 
-# Approach
+I took original inspriation from the [Obsidian Daily Note](https://help.obsidian.md/Plugins/Daily+notes) feature.
 
-Stream versus todo list
-
-Clear it out on a regular basis
-
-# Projects
+# Project Links
 
 - ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){:width="18" style="vertical-align: -3px;"} [Archive YouTube Playlist](https://github.com/ebanner/archive-youtube-playlist)
 - ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){:width="18" style="vertical-align: -3px;"} [Gmail Auto Archive Daily](https://github.com/ebanner/gmail-auto-archive-daily)
-- [Obsidian Daily Note](https://help.obsidian.md/Plugins/Daily+notes)
-
-# Video demo
-
-- ![YouTube](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg){:width="20" style="vertical-align: -1px;"} [Archive YouTube Playlist demo](https://www.youtube.com/watch?v=7sDBBOyIEOA)
 
