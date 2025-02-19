@@ -22,3 +22,30 @@ I took original inspriation from the [Obsidian Daily Note](https://help.obsidian
 - ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){:width="18" style="vertical-align: -3px;"} [Archive YouTube Playlist](https://github.com/ebanner/archive-youtube-playlist)
 - ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){:width="18" style="vertical-align: -3px;"} [Gmail Auto Archive Daily](https://github.com/ebanner/gmail-auto-archive-daily)
 
+<script>
+  async function fetchPreview(url, container) {
+    try {
+      let response = await fetch(`https://api.linkpreview.net/?key=YOUR_API_KEY&q=${url}`);
+      let data = await response.json();
+      container.innerHTML = `
+        <div class="link-preview">
+          <img src="${data.image}" class="link-preview-img">
+          <div class="link-preview-content">
+            <a href="${url}" target="_blank"><strong>${data.title}</strong></a>
+            <p>${data.description}</p>
+          </div>
+        </div>
+      `;
+    } catch (error) {
+      container.innerHTML = `<a href="${url}" target="_blank">${url}</a>`;
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll(".unfurl").forEach(link => {
+      fetchPreview(link.dataset.url, link);
+    });
+  });
+</script>
+
+<div class="unfurl" data-url="https://example.com"></div>
