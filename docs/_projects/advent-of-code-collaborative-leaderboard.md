@@ -22,22 +22,22 @@ the problem of the day:
 
 <img width="373" alt="393325994-5a3de44f-a3f7-49fa-9915-f5cfb2280810" src="https://github.com/user-attachments/assets/3a4517e4-1356-49ae-aa5e-6b866b36453a" />
 
-It would update throughout the day when someone solved the problem. It served as
-a great place to centralize discussion for that day's problem.
+It would update throughout the day when someone got a star. It served as a great
+place to centralize discussion for that day's problem.
 
 ### Star Alerts
 
-When you solved a problem it would send an alert to that thread saying which
-part you solved:
+When you got a star, it would send an alert to that thread saying which part you
+solved:
 
 <img width="364" alt="393326084-6da69cc8-5dc7-4e3b-a850-2dd77c0274f2" src="https://github.com/user-attachments/assets/ce233cea-a615-4c15-a483-201b04fa9fe3" />
 
-I found the alerts super satisfying and motivating and fun!
+I found the alerts super satisfying, motivating, and fun!
 
 ### Burnup Chart
 
 After Advent of Code ended, I created a burnup chart to track progress of
-everyone and recent solves:
+everyone and recent stars:
 
 <img width="1053" alt="Image" src="https://github.com/user-attachments/assets/6e853c68-0b0f-4d20-98cf-6ca8e8180f9c" />
 
