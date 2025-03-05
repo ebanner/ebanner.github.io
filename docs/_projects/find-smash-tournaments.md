@@ -1,10 +1,10 @@
 ---
 layout: project
-title:  "Smash Ultimate dashboard"
-description: See smash ultimate tournaments your favorite players are competing in.
+title:  "Smash Ultimate tournament dashboard"
+description: See smash ultimate tournaments my favorite players are competing in.
 ---
 
-# Smash Ultimate Dashboard
+# Smash Ultimate Tournament Dashboard
 
 ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){:width="18" style="vertical-align: -3px;"} [GitHub project](https://github.com/ebanner/find-smash-tournaments)
 
