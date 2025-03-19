@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  "Making a Lambda Layer"
+description: How to make a Lambda layer for AWS Lambda
 date: 2024-03-17
 ---
 
