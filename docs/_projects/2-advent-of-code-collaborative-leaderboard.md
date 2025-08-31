@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Advent of Code Collaborative leaderboard"
-description: Collaborative leaderboard, star alerts, and burnup chart for Advent of Code.
+description: 🎄 Collaborative leaderboard, star alerts, and burnup chart for Advent of Code.
 ---
 
 
