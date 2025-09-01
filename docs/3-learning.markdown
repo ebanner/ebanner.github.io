@@ -7,7 +7,7 @@ permalink: /learning/
 <h1>Learning</h1>
 
 <h3 style="margin-bottom: 0;">
-  <a href="https://github.com/ebanner/Learning/tree/main/y-combinator">The Y Combinator</a>
+  <a href="/learning/y-combinator/">The Y Combinator</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
   How do we compute the factorial function using the Y combinator?
