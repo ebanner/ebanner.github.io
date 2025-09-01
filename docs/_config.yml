@@ -56,3 +56,11 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
+  learning:
+    output: true
+    permalink: /learning/:name/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
