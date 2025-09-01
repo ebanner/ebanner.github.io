@@ -10,7 +10,7 @@ permalink: /learning/
   <a href="https://github.com/ebanner/Learning/tree/main/y-combinator">The Y Combinator</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
-  How does the Y Combinator compute the factorial function?
+  How do we compute the factorial function using the Y combinator?
 </p>
 
 <h3 style="margin-bottom: 0;">
