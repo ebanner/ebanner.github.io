@@ -4,16 +4,16 @@ title: Textbooks
 permalink: /textbooks/
 ---
 
-# Practical Vim
-
-<a href="https://pragprog.com/titles/dnvim2/practical-vim-second-edition/">
-  <img src="https://pragprog.com/titles/dnvim2/practical-vim-second-edition/dnvim2.jpg" width="200" alt="Thumbnail">
-</a>
-
 # Structure and Interpretations of Computer Programs
 
 <a href="https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/SICP_cover.jpg" width="200" alt="Thumbnail">
+</a>
+
+# Practical Vim
+
+<a href="https://pragprog.com/titles/dnvim2/practical-vim-second-edition/">
+  <img src="https://pragprog.com/titles/dnvim2/practical-vim-second-edition/dnvim2.jpg" width="200" alt="Thumbnail">
 </a>
 
 # Theory of Computation
