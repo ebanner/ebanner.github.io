@@ -38,7 +38,7 @@ $$
 
 We need laziness! Otherwise $\text{FY} = \text{F} (\text{YF}) = \text{F} (\text{F} (\text{YF})) = \text{F} (\text{F} (\cdots (\text{F} (\text{YF})) \cdots )$ would just recurse forever 😵‍💫
 
-That is, we just expand $\text{YF}$ once then pass $\text{YF}$ to $\text{F}$ (as a thunk) then apply $0$ to that.
+That is, we just expand $\text{YF}$ once then pass $\text{YF}$ to $\text{F}$ (as a thunk) then apply that to $0$ .
 
 ## $\text{YF} \ 3$ at a glance
 
