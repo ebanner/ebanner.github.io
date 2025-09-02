@@ -14,7 +14,7 @@ permalink: /learning/
 </p>
 
 <h3 style="margin-bottom: 0;">
-  <a href="/learning/linus-linked-list/">Linus Torvalds Linked List</a>
+  <a href="https://docs.google.com/presentation/d/1_q9YeA2Zlb4btYARbilsRcxMXVdPq8CVmRycjS_KrqU/edit?usp=sharing">Linus Torvalds Linked List</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
   Understanding Linus' infamous linked list algorithm
