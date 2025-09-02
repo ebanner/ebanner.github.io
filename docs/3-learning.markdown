@@ -16,7 +16,7 @@ permalink: /learning/
 <h3 style="margin-bottom: 0;">
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/1489px-Google_Slides_logo_%282014-2020%29.svg.png"
-    width="13"
+    width="18"
     style="vertical-align:-3px; margin-right:4px;"
   >
   <a href="https://docs.google.com/presentation/d/1_q9YeA2Zlb4btYARbilsRcxMXVdPq8CVmRycjS_KrqU/edit?usp=sharing">Linus Torvalds Linked List</a>
