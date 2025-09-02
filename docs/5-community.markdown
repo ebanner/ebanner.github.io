@@ -12,13 +12,7 @@ permalink: /community/
 
 ## Open source projects
 
-<a href="https://www.tampadevs.com">
-  <img src="https://avatars.githubusercontent.com/u/90989885?s=280&v=4" width="200" alt="Thumbnail">
-</a>
-
-<a href="https://virtualcoffee.io">
-  <img src="https://avatars.githubusercontent.com/u/66563724?s=200&v=4" width="200" alt="Thumbnail">
-</a>
+| <a href="https://www.tampadevs.com"><img src="https://avatars.githubusercontent.com/u/90989885?s=280&v=4" width="200" alt="Thumbnail"></a> | <a href="https://virtualcoffee.io"><img src="https://avatars.githubusercontent.com/u/66563724?s=200&v=4" width="200" alt="Thumbnail"></a> |
 
 ## Local tech communities
 
