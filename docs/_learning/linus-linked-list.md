@@ -8,11 +8,9 @@ math: true
 
 # linus-torvalds-linked-list
 
-https://github.com/mkirchner/linked-list-good-taste
+[https://github.com/mkirchner/linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste)
 
-## Artifacts
-
-Animations ([google slides](https://docs.google.com/presentation/d/1_q9YeA2Zlb4btYARbilsRcxMXVdPq8CVmRycjS_KrqU/edit?usp=sharing))
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTSwmCNNYBkUg4pbBIIX94q7iWjf6jYcQOSnNQYUyUBkTMKMQv8-ilbMSh-ay6u5DFANhIurvzDqusM/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Iterating over edges
 
