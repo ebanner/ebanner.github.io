@@ -1,15 +1,10 @@
 ---
 layout: default
+title: Side Projects
+permalink: /projects/
 ---
 
-<img src="{{ '/assets/images/eddie.jpg' | relative_url }}" alt="Hero" style="width:200px;height:auto;">
-
-<br />
-<br />
-
-<p>Hi, my name is Eddie. Welcome to my site! I hope you like it here.</p>
-
-<h2>Side Projects</h2>
+<h1>Side Projects</h1>
 
 <h3 style="margin-bottom: 0;">
   <img
