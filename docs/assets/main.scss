@@ -20,20 +20,28 @@
   }
 }
 
-// Fix footer layout to ensure proper column alignment
+// Responsive footer layout - two columns on desktop, one on mobile
 .footer-col-wrapper {
   display: flex;
   justify-content: space-between;
   flex-wrap: nowrap;
 }
 
-.footer-col-1 {
-  flex: 0 0 45%;
-  max-width: 45%;
+.footer-col {
+  flex: 0 0 48%;
+  max-width: 48%;
 }
 
-.footer-col-2 {
-  flex: 0 0 55%;
-  max-width: 55%;
-  margin-left: 15px;
+// Mobile: stack everything in one column
+@media screen and (max-width: 600px) {
+  .footer-col-wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .footer-col {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
 }
