@@ -7,6 +7,13 @@ permalink: /learning/
 <h1>Learning</h1>
 
 <h3 style="margin-bottom: 0;">
+  <a href="/learning/crossword-puzzle-cropping/">Crossword puzzle cropping</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Extracting a crossword puzzle with computer vision
+</p>
+
+<h3 style="margin-bottom: 0;">
   <a href="/learning/y-combinator/">The Y Combinator</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
