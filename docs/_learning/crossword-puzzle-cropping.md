@@ -22,7 +22,7 @@ gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 <img src="/assets/images/computer-vision/2-grayscale.png" style="max-width: 600px;">
 
-Let's crop out the bottom and top to narrow down our region of interest. Why?
+Let's crop out the header and footer to narrow down our region of interest. Why?
 Well we're going to eventually run a contour-detection algorithm and we want to
 filter away as much noise as possible:
 
