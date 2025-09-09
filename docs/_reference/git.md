@@ -9,3 +9,8 @@ description: Commonly used git commands
 ```
 git switch -c <branch>
 ```
+
+## Checkout a remote branch
+
+git switch -c <branch> <origin/branch>
+
