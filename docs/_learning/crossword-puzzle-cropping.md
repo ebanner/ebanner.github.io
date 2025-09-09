@@ -8,7 +8,7 @@ math: true
 
 # Cropping a crossword puzzle with computer vision
 
-Say you want to extract the following crossword puzzle:
+Say you want to extract a crossword puzzle out of the following image:
 
 <img src="/assets/images/computer-vision/1-page.png" style="max-width: 600px;">
 
@@ -115,7 +115,6 @@ original image:
 ```python
 _, x, y, contour_width, contour_height = top_candidate
 
-top, left = y, roi_x1 + x
 crop = img_roi[y:y+contour_height, x:x+contour_width]
 ```
 
