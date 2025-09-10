@@ -47,8 +47,8 @@ binarized_roi = cv2.adaptiveThreshold(
 
 <img src="/assets/images/computer-vision/4-binarized-roi.png" style="max-width:600px; width:100%;">
 
-Okay! Now let's run a long horizontal kernel to filter away everything that
-isn't a long horizontal line. Apply [erosion and
+Okay! Now let's run a long thin horizontal kernel to filter away everything that
+isn't a long thin horizontal line. Apply [erosion and
 dilation](https://docs.opencv.org/3.4/db/df6/tutorial_erosion_dilatation.html)
 to help fill in the gaps:
 
@@ -62,8 +62,8 @@ horiz = cv2.dilate(cv2.erode(binarized_roi, horiz_kernel, 1), horiz_kernel, 1)
 
 <img src="/assets/images/computer-vision/5-horiz-roi.png" style="max-width:600px; width:100%;">
 
-Now do the same thing with a long vertical kernel, also applying erosion and
-dilation:
+Now do the same thing with a long thin vertical kernel, also applying erosion
+and dilation:
 
 ```python
 scale = 15  # adjust per image size
