@@ -10,7 +10,7 @@ math: true
 
 Say you want to extract a crossword puzzle out of the following image:
 
-<img src="/assets/images/computer-vision/1-page.png" style="max-width: 600px;">
+<img src="/assets/images/computer-vision/1-page.png" style="max-width:600px; width:100%;">
 
 How would you do it?
 
@@ -20,7 +20,7 @@ Well, let's start by converting the image to grayscale:
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 ```
 
-<img src="/assets/images/computer-vision/2-grayscale.png" style="max-width: 600px;">
+<img src="/assets/images/computer-vision/2-grayscale.png" style="max-width:600px; width:100%;">
 
 Let's crop out the header and footer to narrow down our region of interest. Why?
 Well we're going to eventually run a contour-detection algorithm and we want to
@@ -35,7 +35,7 @@ roi_x1, roi_x2 = int(width*0.20), int(width*0.85)
 gray_roi = gray[roi_y1:roi_y2, roi_x1:roi_x2]
 ```
 
-<img src="/assets/images/computer-vision/3-gray-roi.png" style="max-width: 600px;">
+<img src="/assets/images/computer-vision/3-gray-roi.png" style="max-width:600px; width:100%;">
 
 Great! Now let's binarize the image:
 
@@ -45,7 +45,7 @@ binarized_roi = cv2.adaptiveThreshold(
 )
 ```
 
-<img src="/assets/images/computer-vision/4-binarized-roi.png" style="max-width: 600px;">
+<img src="/assets/images/computer-vision/4-binarized-roi.png" style="max-width:600px; width:100%;">
 
 Okay! Now let's run a long horizontal kernel to filter away everything that
 isn't a long horizontal line. Apply [erosion and
@@ -60,7 +60,7 @@ horiz_kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (gray_roi.shape[1]//sca
 horiz = cv2.dilate(cv2.erode(binarized_roi, horiz_kernel, 1), horiz_kernel, 1)
 ```
 
-<img src="/assets/images/computer-vision/5-horiz-roi.png" style="max-width: 600px;">
+<img src="/assets/images/computer-vision/5-horiz-roi.png" style="max-width:600px; width:100%;">
 
 Now do the same thing with a long vertical kernel, also applying erosion and
 dilation:
@@ -73,7 +73,7 @@ vert_kernel  = cv2.getStructuringElement(cv2.MORPH_RECT, (1, gray_roi.shape[0]//
 vert  = cv2.dilate(cv2.erode(binarized_roi, vert_kernel, 1),  vert_kernel, 1)
 ```
 
-<img src="/assets/images/computer-vision/6-vert-binarized.png" style="max-width: 600px;">
+<img src="/assets/images/computer-vision/6-vert-binarized.png" style="max-width:600px; width:100%;">
 
 Now let's add the horiztonal and vertical bitmaps back together:
 
@@ -81,7 +81,7 @@ Now let's add the horiztonal and vertical bitmaps back together:
 grid = cv2.addWeighted(horiz, 0.5, vert, 0.5, 0)
 ```
 
-<img src="/assets/images/computer-vision/8-added-binarized.png" style="max-width: 600px;">
+<img src="/assets/images/computer-vision/8-added-binarized.png" style="max-width:600px; width:100%;">
 
 Now it's time for the magic - let's run a contour detection algorithm over the
 bitmap. This is basically finding blobs with their perimeter:
@@ -90,7 +90,7 @@ bitmap. This is basically finding blobs with their perimeter:
 contours, _ = cv2.findContours(grid, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 ```
 
-<img src="/assets/images/computer-vision/9-contours.png" style="max-width: 600px;">
+<img src="/assets/images/computer-vision/9-contours.png" style="max-width:600px; width:100%;">
 
 Looks like there are a few contours, including the crossword contour! We need
 some way to rank them - let's do it by area and width/height ratio:
@@ -107,7 +107,7 @@ for contour in contours:
 top_candidate = candidates[0]
 ```
 
-<img src="/assets/images/computer-vision/10-top-contour.png" style="max-width: 600px;">
+<img src="/assets/images/computer-vision/10-top-contour.png" style="max-width:600px; width:100%;">
 
 Looks good! Finally, let's use the top candidate to crop the crossword from the
 original image:
@@ -118,7 +118,7 @@ _, x, y, contour_width, contour_height = top_candidate
 crop = img_roi[y:y+contour_height, x:x+contour_width]
 ```
 
-<img src="/assets/images/computer-vision/11-crop.png" style="max-width: 600px;">
+<img src="/assets/images/computer-vision/11-crop.png" style="max-width:600px; width:100%;">
 
 And that's how you crop a crossword with computer vision!
 
