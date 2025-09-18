@@ -4,6 +4,8 @@ title: Side Projects
 permalink: /projects/
 ---
 
+<meta http-equiv="refresh" content="0; url=/#side-projects">
+
 <h1>Side Projects</h1>
 
 <h3 style="margin-bottom: 0;">
