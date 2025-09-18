@@ -8,7 +8,7 @@ description: 👾 See smash ultimate tournaments my favorite players are competi
 
 ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){:width="18" style="vertical-align: -3px;"} [GitHub project](https://github.com/ebanner/find-smash-tournaments)
 
-I'm a big fan of [competitive Smash
+I'm a big fan of [competitive Super Smash Brothers
 Ultimate](https://www.start.gg/game/ultimate/all). Though one annoying thing is
 I was always finding out about tournaments after they happened. I didn't know
 which ones were coming up when.
