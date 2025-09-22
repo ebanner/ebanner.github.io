@@ -19,3 +19,10 @@ permalink: /reference/
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
   Common git commands
 </p>
+
+<h3 style="margin-bottom: 0;">
+  <a href="/reference/jupyter/">jupyter</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Common jupyter commands and file locations
+</p>
