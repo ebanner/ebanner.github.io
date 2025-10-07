@@ -4,21 +4,23 @@ title:  "bc"
 description: Working in hex and decimal in bc
 ---
 
-## Work fully in hex
+# bc
+
+Work fully in hex
 
 ```
 obase=16
 ibase=16
 ```
 
-## Converting hex to decimal
+Converting hex to decimal
 
 ```
 obase=10
 ibase=16
 ```
 
-## Converting decimal to hex
+Converting decimal to hex
 
 ```
 obase=16
