@@ -21,6 +21,18 @@ permalink: /projects/
 </p>
 
 <h3 style="margin-bottom: 0;">
+  <img
+    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    width="18"
+    style="vertical-align:-3px; margin-right:4px;"
+  >
+  <a href="https://github.com/ebanner/pynt">pynt</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Bridging the gap between jupyter notebooks and text editors/IDEs
+</p>
+
+<h3 style="margin-bottom: 0;">
   <a href="/projects/find-smash-tournaments/">Smash Ultimate tournament dashboard 👾</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">

@@ -7,6 +7,18 @@ permalink: /learning/
 <h1>Learning</h1>
 
 <h3 style="margin-bottom: 0;">
+  <img
+    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    width="18"
+    style="vertical-align:-3px; margin-right:4px;"
+  >
+  <a href="https://github.com/ebanner/doom-os">Doom OS</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Writing a minimal operating system to run Doom
+</p>
+
+<h3 style="margin-bottom: 0;">
   <a href="/learning/crossword-puzzle-cropping/">Crossword puzzle cropping</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
@@ -55,3 +67,18 @@ permalink: /learning/
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
   Understanding John Carmack's Quake III fast inverse square root algorithm
 </p>
+
+<h3 style="margin-bottom: 0;">
+  <a href="/learning/ml/">Machine Learning</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Toy implementations of various machine learning models
+</p>
+
+<h3 style="margin-bottom: 0;">
+  <a href="/learning/sicp/">SICP</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Solutions to exercises for the book Structure and Interpretation of Computer Programs
+</p>
+
