@@ -13,104 +13,120 @@ Solutions to the book *Structure and Interpretations of Computer Programs*
 ## Chapter 1
 
 - [ex 1.1](https://github.com/ebanner/sicp/blob/master/ch1/1.scm)
-- [ex 1.2](https://github.com/ebanner/sicp/blob/master/ch1/3.scm)
+- [ex 1.3](https://github.com/ebanner/sicp/blob/master/ch1/3.scm)
+- [ex 1.4](https://github.com/ebanner/sicp/blob/master/ch1/4.scm)
+- [ex 1.5](https://github.com/ebanner/sicp/blob/master/ch1/5.scm)
+- [ex 1.6](https://github.com/ebanner/sicp/blob/master/ch1/6.scm)
+- [ex 1.7](https://github.com/ebanner/sicp/blob/master/ch1/7.scm)
+- [ex 1.8](https://github.com/ebanner/sicp/blob/master/ch1/8.scm)
+- [ex 1.9](https://github.com/ebanner/sicp/blob/master/ch1/9.scm)
+- [ex 1.10](https://github.com/ebanner/sicp/blob/master/ch1/10.scm)
+- [ex 1.11](https://github.com/ebanner/sicp/blob/master/ch1/11.scm)
+- [ex 1.12](https://github.com/ebanner/sicp/blob/master/ch1/12.scm)
+- [ex 1.16](https://github.com/ebanner/sicp/blob/master/ch1/16.scm)
+- [ex 1.17](https://github.com/ebanner/sicp/blob/master/ch1/17.scm)
+- [ex 1.18](https://github.com/ebanner/sicp/blob/master/ch1/18.scm)
+- [ex 1.19](https://github.com/ebanner/sicp/blob/master/ch1/19.scm)
+- [ex 1.21](https://github.com/ebanner/sicp/blob/master/ch1/21.scm)
+- [ex 1.26](https://github.com/ebanner/sicp/blob/master/ch1/26.scm)
+- [ex 1.27](https://github.com/ebanner/sicp/blob/master/ch1/27.scm)
+- [ex 1.29](https://github.com/ebanner/sicp/blob/master/ch1/29.scm)
+- [ex 1.30](https://github.com/ebanner/sicp/blob/master/ch1/30.scm)
+- [ex 1.31](https://github.com/ebanner/sicp/blob/master/ch1/31.scm)
+- [ex 1.32](https://github.com/ebanner/sicp/blob/master/ch1/32.scm)
+- [ex 1.33](https://github.com/ebanner/sicp/blob/master/ch1/33.scm)
+- [ex 1.34](https://github.com/ebanner/sicp/blob/master/ch1/34.scm)
+- [ex 1.36](https://github.com/ebanner/sicp/blob/master/ch1/36.scm)
+- [ex 1.37](https://github.com/ebanner/sicp/blob/master/ch1/37.scm)
+- [ex 1.38](https://github.com/ebanner/sicp/blob/master/ch1/38.scm)
+- [ex 1.39](https://github.com/ebanner/sicp/blob/master/ch1/39.scm)
+- [ex 1.40](https://github.com/ebanner/sicp/blob/master/ch1/40.scm)
+- [ex 1.41](https://github.com/ebanner/sicp/blob/master/ch1/41.scm)
+- [ex 1.42](https://github.com/ebanner/sicp/blob/master/ch1/42.scm)
+- [ex 1.43](https://github.com/ebanner/sicp/blob/master/ch1/43.scm)
+- [ex 1.44](https://github.com/ebanner/sicp/blob/master/ch1/44.scm)
+- [ex 1.45](https://github.com/ebanner/sicp/blob/master/ch1/45.scm)
+- [ex 1.46](https://github.com/ebanner/sicp/blob/master/ch1/46.scm)
 
-1.scm
-10.scm
-11.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-12.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-16.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-17.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-18.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-19.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-21.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-26.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-27.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-29.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-3.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-30.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-31.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-32.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-33.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-34.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-36.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-37.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-38.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-39.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-4.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-40.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-41.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-42.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-43.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-44.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-45.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-46.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-5.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-6.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-7.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-8.scm
-Bulk rename Chapter 1 exercises
-11 years ago
-9.scm
+## Chapter 2
+
+- [ex 2.1](https://github.com/ebanner/sicp/blob/master/ch2/1.scm)
+- [ex 2.2](https://github.com/ebanner/sicp/blob/master/ch2/2.scm)
+- [ex 2.3](https://github.com/ebanner/sicp/blob/master/ch2/3.scm)
+- [ex 2.4](https://github.com/ebanner/sicp/blob/master/ch2/4.scm)
+- [ex 2.5](https://github.com/ebanner/sicp/blob/master/ch2/5.scm)
+- [ex 2.6](https://github.com/ebanner/sicp/blob/master/ch2/6.scm)
+- [ex 2.7](https://github.com/ebanner/sicp/blob/master/ch2/7.scm)
+- [ex 2.8](https://github.com/ebanner/sicp/blob/master/ch2/8.scm)
+- [ex 2.9](https://github.com/ebanner/sicp/blob/master/ch2/9.scm)
+- [ex_2.10](https://github.com/ebanner/sicp/blob/master/ch2/10.scm)
+- [ex_2.12](https://github.com/ebanner/sicp/blob/master/ch2/12.scm)
+- [ex_2.17](https://github.com/ebanner/sicp/blob/master/ch2/17.scm)
+- [ex_2.18](https://github.com/ebanner/sicp/blob/master/ch2/18.scm)
+- [ex_2.19](https://github.com/ebanner/sicp/blob/master/ch2/19.scm)
+- [ex_2.20](https://github.com/ebanner/sicp/blob/master/ch2/20.scm)
+- [ex_2.21](https://github.com/ebanner/sicp/blob/master/ch2/21.scm)
+- [ex_2.22](https://github.com/ebanner/sicp/blob/master/ch2/22.scm)
+- [ex_2.23](https://github.com/ebanner/sicp/blob/master/ch2/23.scm)
+- [ex_2.25](https://github.com/ebanner/sicp/blob/master/ch2/25.scm)
+- [ex_2.26](https://github.com/ebanner/sicp/blob/master/ch2/26.scm)
+- [ex_2.27](https://github.com/ebanner/sicp/blob/master/ch2/27.scm)
+- [ex_2.28](https://github.com/ebanner/sicp/blob/master/ch2/28.scm)
+- [ex_2.29](https://github.com/ebanner/sicp/blob/master/ch2/29.scm)
+- [ex_2.30](https://github.com/ebanner/sicp/blob/master/ch2/30.scm)
+- [ex_2.31](https://github.com/ebanner/sicp/blob/master/ch2/31.scm)
+- [ex_2.32](https://github.com/ebanner/sicp/blob/master/ch2/32.scm)
+- [ex_2.33](https://github.com/ebanner/sicp/blob/master/ch2/33.scm)
+- [ex_2.34](https://github.com/ebanner/sicp/blob/master/ch2/34.scm)
+- [ex_2.35](https://github.com/ebanner/sicp/blob/master/ch2/35.scm)
+- [ex_2.36](https://github.com/ebanner/sicp/blob/master/ch2/36.scm)
+- [ex_2.37](https://github.com/ebanner/sicp/blob/master/ch2/37.scm)
+- [ex_2.38](https://github.com/ebanner/sicp/blob/master/ch2/38.scm)
+- [ex_2.39](https://github.com/ebanner/sicp/blob/master/ch2/39.scm)
+- [ex_2.40](https://github.com/ebanner/sicp/blob/master/ch2/40.scm)
+- [ex_2.41](https://github.com/ebanner/sicp/blob/master/ch2/41.scm)
+- [ex_2.42](https://github.com/ebanner/sicp/blob/master/ch2/42.scm)
+- [ex_2.43](https://github.com/ebanner/sicp/blob/master/ch2/43.scm)
+- [ex_2.44](https://github.com/ebanner/sicp/blob/master/ch2/44.scm)
+- [ex_2.45](https://github.com/ebanner/sicp/blob/master/ch2/45.scm)
+- [ex_2.46](https://github.com/ebanner/sicp/blob/master/ch2/46.scm)
+- [ex_2.47](https://github.com/ebanner/sicp/blob/master/ch2/47.scm)
+- [ex_2.48](https://github.com/ebanner/sicp/blob/master/ch2/48.scm)
+- [ex_2.49](https://github.com/ebanner/sicp/blob/master/ch2/49.scm)
+- [ex_2.53](https://github.com/ebanner/sicp/blob/master/ch2/53.scm)
+- [ex_2.54](https://github.com/ebanner/sicp/blob/master/ch2/54.scm)
+- [ex_2.55](https://github.com/ebanner/sicp/blob/master/ch2/55.scm)
+- [ex_2.56](https://github.com/ebanner/sicp/blob/master/ch2/56.scm)
+- [ex_2.57](https://github.com/ebanner/sicp/blob/master/ch2/57.scm)
+- [ex_2.58](https://github.com/ebanner/sicp/blob/master/ch2/58.scm)
+- [ex_2.59](https://github.com/ebanner/sicp/blob/master/ch2/59.scm)
+- [ex_2.60](https://github.com/ebanner/sicp/blob/master/ch2/60.scm)
+- [ex_2.61](https://github.com/ebanner/sicp/blob/master/ch2/61.scm)
+- [ex_2.62](https://github.com/ebanner/sicp/blob/master/ch2/62.scm)
+- [ex_2.63](https://github.com/ebanner/sicp/blob/master/ch2/63.scm)
+- [ex_2.64](https://github.com/ebanner/sicp/blob/master/ch2/64.scm)
+- [ex_2.65](https://github.com/ebanner/sicp/blob/master/ch2/65.scm)
+- [ex_2.66](https://github.com/ebanner/sicp/blob/master/ch2/66.scm)
+- [ex_2.67](https://github.com/ebanner/sicp/blob/master/ch2/67.scm)
+- [ex_2.68](https://github.com/ebanner/sicp/blob/master/ch2/68.scm)
+- [ex_2.69](https://github.com/ebanner/sicp/blob/master/ch2/69.scm)
+- [ex_2.70](https://github.com/ebanner/sicp/blob/master/ch2/70.scm)
+- [ex_2.71](https://github.com/ebanner/sicp/blob/master/ch2/71.scm)
+- [ex_2.73](https://github.com/ebanner/sicp/blob/master/ch2/73.scm)
+- [ex_2.74](https://github.com/ebanner/sicp/blob/master/ch2/74.scm)
+- [ex_2.75](https://github.com/ebanner/sicp/blob/master/ch2/75.scm)
+- [ex_2.76](https://github.com/ebanner/sicp/blob/master/ch2/76.scm)
+- [ex_2.77](https://github.com/ebanner/sicp/blob/master/ch2/77.scm)
+- [ex_2.78](https://github.com/ebanner/sicp/blob/master/ch2/78.scm)
+- [ex_2.79](https://github.com/ebanner/sicp/blob/master/ch2/79.scm)
+- [ex_2.80](https://github.com/ebanner/sicp/blob/master/ch2/80.scm)
+- [ex_2.81](https://github.com/ebanner/sicp/blob/master/ch2/81.scm)
+- [ex_2.82](https://github.com/ebanner/sicp/blob/master/ch2/82.scm)
+- [ex_2.83](https://github.com/ebanner/sicp/blob/master/ch2/83.scm)
+- [ex_2.84](https://github.com/ebanner/sicp/blob/master/ch2/84.scm)
+- [ex_2.85](https://github.com/ebanner/sicp/blob/master/ch2/85.scm)
+- [ex_2.86](https://github.com/ebanner/sicp/blob/master/ch2/86.scm)
+- [ex_2.87](https://github.com/ebanner/sicp/blob/master/ch2/87.scm)
+- [ex_2.88](https://github.com/ebanner/sicp/blob/master/ch2/88.scm)
+- [ex_2.89](https://github.com/ebanner/sicp/blob/master/ch2/89.scm)
+
