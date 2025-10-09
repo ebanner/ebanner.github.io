@@ -7,6 +7,13 @@ permalink: /reference/
 <h1>Reference</h1>
 
 <h3 style="margin-bottom: 0;">
+  <a href="/reference/vim/">vim</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Useful ex commands in vim
+</p>
+
+<h3 style="margin-bottom: 0;">
   <a href="/reference/bc/">bc</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
