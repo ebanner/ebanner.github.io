@@ -8,7 +8,9 @@ math: true
 
 # SICP
 
-Solutions to the book *Structure and Interpretations of Computer Programs*
+Solutions to exercises from the book [Structure and Interpretations of Computer Programs](https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/)
+
+| ![](https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/halpicture.jpg) | ![](https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/wizard.jpg) | ![](https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/gjspicture.jpg) |
 
 ## Chapter 1
 

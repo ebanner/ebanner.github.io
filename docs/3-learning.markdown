@@ -79,6 +79,6 @@ permalink: /learning/
   <a href="/learning/sicp/">SICP</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
-  Solutions to exercises for the book Structure and Interpretation of Computer Programs
+  Solutions to exercises from the book Structure and Interpretation of Computer Programs
 </p>
 
