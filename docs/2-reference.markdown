@@ -7,6 +7,13 @@ permalink: /reference/
 <h1>Reference</h1>
 
 <h3 style="margin-bottom: 0;">
+  <a href="/reference/binary-files/">Binary files</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Commands for inspecting binary files
+</p>
+
+<h3 style="margin-bottom: 0;">
   <a href="/reference/vim/">vim</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
