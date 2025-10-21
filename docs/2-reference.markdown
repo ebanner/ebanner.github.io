@@ -7,6 +7,13 @@ permalink: /reference/
 <h1>Reference</h1>
 
 <h3 style="margin-bottom: 0;">
+  <a href="/reference/git/">git</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Common git commands
+</p>
+
+<h3 style="margin-bottom: 0;">
   <a href="/reference/binary-files/">Binary files</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
@@ -32,13 +39,6 @@ permalink: /reference/
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
   Common jupyter commands and file locations
-</p>
-
-<h3 style="margin-bottom: 0;">
-  <a href="/reference/git/">git</a>
-</h3>
-<p style="margin-top: 5px; color: #666; font-size: 16px;">
-  Common git commands
 </p>
 
 <h3 style="margin-bottom: 0;">

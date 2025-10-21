@@ -18,3 +18,8 @@ Checkout a remote branch
 git switch -c <branch> <origin/branch>
 ```
 
+Stage by hunks (if [magit](https://magit.vc) is unavailable):
+
+```
+git add -p
+```
