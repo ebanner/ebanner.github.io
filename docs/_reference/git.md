@@ -6,6 +6,12 @@ description: Commonly used git commands
 
 # git
 
+Stage by hunks (if [magit](https://magit.vc) is unavailable)
+
+```
+git add -p
+```
+
 Create a new branch
 
 ```
@@ -18,8 +24,3 @@ Checkout a remote branch
 git switch -c <branch> <origin/branch>
 ```
 
-Stage by hunks (if [magit](https://magit.vc) is unavailable):
-
-```
-git add -p
-```
