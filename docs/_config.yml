@@ -27,6 +27,9 @@ twitter_username: EdwardBanner
 github_username:  ebanner
 youtube_username: edwardbanner1117
 
+# Google Analytics
+google_analytics: G-GEQBM858SZ
+
 # Build settings
 theme: minima
 plugins:
