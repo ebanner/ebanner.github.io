@@ -6,6 +6,9 @@ permalink: /work-automations/
 
 <h1>Work Automations</h1>
 
+I love automating repetitive tedious work tasks. Here are some automations I've
+created in that vein.
+
 <h3 style="margin-bottom: 0;">
   <img
     src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
