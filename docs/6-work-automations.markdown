@@ -36,6 +36,18 @@ permalink: /work-automations/
     width="18"
     style="vertical-align:-3px; margin-right:4px;"
   >
+  <a href="https://github.com/ebanner/pynt">pynt</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Debug a computer vision pipeline with jupyter notebooks
+</p>
+
+<h3 style="margin-bottom: 0;">
+  <img
+    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    width="18"
+    style="vertical-align:-3px; margin-right:4px;"
+  >
   <a href="https://github.com/ebanner/neural-nlp">Neural NLP</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
