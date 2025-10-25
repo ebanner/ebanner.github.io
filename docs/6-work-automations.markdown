@@ -12,7 +12,9 @@ permalink: /work-automations/
     width="18"
     style="vertical-align:-3px; margin-right:4px;"
   >
-  <a href="https://github.com/ebanner/donut-hole-counter">Donut Hole Counter</a>
+  <a href="https://github.com/ebanner/donut-hole-counter">
+    Donut hole counter
+  </a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
   Count donut holes with a YOLO model 🍩
@@ -24,7 +26,9 @@ permalink: /work-automations/
     width="18"
     style="vertical-align:-3px; margin-right:4px;"
   >
-  <a href="https://github.com/ebanner/change-counter">Change Counter</a>
+  <a href="https://github.com/ebanner/change-counter">
+    Change counter
+  </a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
   Count change with Hough Transforms 🪙
@@ -63,7 +67,7 @@ permalink: /work-automations/
   <a href="https://github.com/ebanner/dotfiles/blob/14818ad5686e6aafd263cb4673f8fd412366cccd/elisp/simple-mde.el">Annotate disfluencies</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
-  Emacs minor mode for interactively annotating disfluencies via the SimpleMDE scheme
+  Emacs minor mode for interactively annotating disfluencies via SimpleMDE
 </p>
 
 <h3 style="margin-bottom: 0;">
@@ -72,8 +76,8 @@ permalink: /work-automations/
     width="18"
     style="vertical-align:-3px; margin-right:4px;"
   >
-  <a href="https://github.com/ebanner/scripts/blob/master/add_course.pl">Add Course</a>
+  <a href="https://github.com/ebanner/scripts/blob/master/add_course.pl">Add course</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
-  Automatically register a college course for me when it becomes available
+  Perl script to auto-register me for a college class when it becomes available
 </p>
