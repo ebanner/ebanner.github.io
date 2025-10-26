@@ -1,13 +1,12 @@
 ---
 layout: default
 title: Work Automations
-permalink: /work-automations/
+permalink: /automations/
 ---
 
-<h1>Work Automations</h1>
+## Work Automations
 
-I love automating repetitive tedious work tasks. Here are some automations I've
-created in that vein.
+Here are some automations I've made for repetitive tedious work tasks over time.
 
 <h3 style="margin-bottom: 0;">
   <img
@@ -83,4 +82,48 @@ created in that vein.
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
   Perl script to auto-register me for a college class when it becomes available
+</p>
+
+## Other
+
+<h3 style="margin-bottom: 0;">
+  <img
+    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    width="18"
+    style="vertical-align:-3px; margin-right:4px;"
+  >
+  <a href="https://github.com/ebanner/save-youtube-stream">
+    Save YouTube stream
+  </a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Auto-add a live stream from a YouTube channel to my Watch Next playlist
+</p>
+
+<h3 style="margin-bottom: 0;">
+  <img
+    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    width="18"
+    style="vertical-align:-3px; margin-right:4px;"
+  >
+  <a href="https://github.com/ebanner/archive-youtube-playlist">
+    Garbage collect YouTube playlist
+  </a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Garbage collect videos from my Watch next playlist
+</p>
+
+<h3 style="margin-bottom: 0;">
+  <img
+    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    width="18"
+    style="vertical-align:-3px; margin-right:4px;"
+  >
+  <a href="https://github.com/ebanner/gmail-auto-archive-daily">
+    Garbage collect Gmail inbox
+  </a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Garbage collect emails from my inbox daily
 </p>
