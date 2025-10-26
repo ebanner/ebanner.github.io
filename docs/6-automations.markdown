@@ -84,7 +84,7 @@ Here are some automations I've made for repetitive tedious work tasks over time.
   Perl script to auto-register me for a college class when it becomes available
 </p>
 
-## Other
+## Personal
 
 <h3 style="margin-bottom: 0;">
   <img
