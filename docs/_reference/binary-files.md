@@ -6,6 +6,18 @@ description: Commands for inspecting binary files
 
 # Binary files
 
+Read ELF file headers
+
+```
+readelf -h os.elf
+```
+
+View the assembly in your object file
+
+```
+objdump -d boot_sector.o
+```
+
 Viewing a binary file
 
 ```
