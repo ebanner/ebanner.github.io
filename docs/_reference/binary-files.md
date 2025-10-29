@@ -6,6 +6,23 @@ description: Commands for inspecting binary files
 
 # Binary files
 
+View how big each section is in an object file
+
+```
+% objdump -h boot_sector_asm.o
+
+boot_sector_asm.o:	file format elf32-i386
+
+Sections:
+Idx Name          Size     VMA      Type
+  0               00000000 00000000
+  1 .text         0000004b 00000000 TEXT
+  2 .shstrtab     0000002b 00000000       # Section Header STRing TABle
+  3 .symtab       000000b0 00000000
+  4 .strtab       00000084 00000000
+  5 .rel.text     00000020 00000000
+```
+
 Disassemble a binary
 
 ```
