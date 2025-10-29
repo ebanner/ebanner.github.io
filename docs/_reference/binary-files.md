@@ -6,6 +6,12 @@ description: Commands for inspecting binary files
 
 # Binary files
 
+Disassemble a binary
+
+```
+ndisasm -b 16 boot_sect.bin
+```
+
 Read ELF file headers
 
 ```
