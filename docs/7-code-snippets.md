@@ -17,5 +17,8 @@ permalink: /code-snippets/
   </a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
-  IPython magic command for displaying an image in a jupyter notebook
+  IPython <a href="https://ipython.readthedocs.io/en/stable/interactive/magics.html">
+    magic command 
+  </a>
+  for displaying an image in a jupyter notebook
 </p>
