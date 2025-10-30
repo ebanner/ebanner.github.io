@@ -4,7 +4,7 @@ title: Misc
 permalink: /favorites/
 ---
 
-# Miscellaneous
+# Favorites
 
 Here are some of my favorite things.
 
