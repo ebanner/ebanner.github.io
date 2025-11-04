@@ -1,23 +1,17 @@
 ---
 layout: default
 title: Code Snippets
-permalink: /code-snippets/
+permalink: /snippets/
 ---
 
 # Code Snippets
 
-Use JSX in a Deno jupyter kernel
-
-```js
-/** @jsxImportSource https://esm.sh/react@18 */
-
-import { document } from "jsr:@ry/jupyter-helper";
-import { renderToStaticMarkup } from "https://esm.sh/react-dom@18/server";
-
-const container = document.createElement("div");
-container.innerHTML = renderToStaticMarkup(<h1>Hello, World!</h1>);
-export default container;
-```
+<h3 style="margin-bottom: 0;">
+  <a href="/snippets/deno/">Deno jupyter</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Deno snippets in a jupyer kernel
+</p>
 
 <h3 style="margin-bottom: 0;">
   <img
