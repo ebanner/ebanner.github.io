@@ -10,6 +10,13 @@ Here are some useful commands I keep referring back to beacuse I forget how to
 use them.
 
 <h3 style="margin-bottom: 0;">
+  <a href="/reference/bc/">bc</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Working in hex and decimal in bc
+</p>
+
+<h3 style="margin-bottom: 0;">
   <a href="/reference/shell/">Shell commands</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
@@ -49,13 +56,6 @@ use them.
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
   Useful ex commands in vim
-</p>
-
-<h3 style="margin-bottom: 0;">
-  <a href="/reference/bc/">bc</a>
-</h3>
-<p style="margin-top: 5px; color: #666; font-size: 16px;">
-  Working in hex and decimal in bc
 </p>
 
 <h3 style="margin-bottom: 0;">

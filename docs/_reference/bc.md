@@ -6,6 +6,16 @@ description: Working in hex and decimal in bc
 
 # bc
 
+Do floating point division
+
+```
+>>> 1 / 2
+0
+>>> scale=4
+>>> 1 / 2
+.5000
+```
+
 Work fully in hex
 
 ```
