@@ -10,6 +10,13 @@ Here are some useful commands I keep referring back to beacuse I forget how to
 use them.
 
 <h3 style="margin-bottom: 0;">
+  <a href="/reference/bc/">bc</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Working in hex and decimal in bc
+</p>
+
+<h3 style="margin-bottom: 0;">
   <a href="/reference/latex/">LaTeX</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
@@ -21,13 +28,6 @@ use them.
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
   JS development features in Firefox
-</p>
-
-<h3 style="margin-bottom: 0;">
-  <a href="/reference/bc/">bc</a>
-</h3>
-<p style="margin-top: 5px; color: #666; font-size: 16px;">
-  Working in hex and decimal in bc
 </p>
 
 <h3 style="margin-bottom: 0;">

@@ -26,7 +26,6 @@ ibase=16
 Converting hex to decimal
 
 ```
-obase=10
 ibase=16
 ```
 
@@ -34,6 +33,5 @@ Converting decimal to hex
 
 ```
 obase=16
-ibase=10
 ```
 
