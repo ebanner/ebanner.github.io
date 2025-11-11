@@ -24,6 +24,6 @@ permalink: /community/
 
 ## Meetups
 
-- [November Coffee Social (Tampa Bay Python)](https://www.meetup.com/tampa-bay-python/events/311858450/)
-- [Monday Study Group (Tampa Bay Python)](https://www.meetup.com/tampa-bay-python/events/311906938)
+- [☕️ November Coffee Social (Tampa Bay Python)](https://www.meetup.com/tampa-bay-python/events/311858450/)
+- [📚 Monday Study Group (Tampa Bay Python)](https://www.meetup.com/tampa-bay-python/events/311906938)
 
