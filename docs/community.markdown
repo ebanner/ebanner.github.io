@@ -4,6 +4,8 @@ title: Community
 permalink: /community/
 ---
 
+# Community
+
 ## Videos
 
 - ![YouTube](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8mOoMjnCt8ZkqobhyjbBdQ-wlwbPODwJvA&s){:width="18" style="vertical-align:-3px;"} [AWS Cognito Custom OAuth Scopes for Multiple App Clients](https://youtu.be/PNQFAKgvhrs?si=QgNTEOuPFpR24BOr)
@@ -19,3 +21,9 @@ permalink: /community/
 <a href="https://www.meetup.com">
   <img src="https://play-lh.googleusercontent.com/byNQj20XRp7MfIVK7WryqB4jdyZceL087ABgIjwzZqw9y339Nz0_KLS_1B7ak51QLEg" width="200" alt="Thumbnail">
 </a>
+
+## Meetups
+
+- [November Coffee Social (Tampa Bay Python)](https://www.meetup.com/tampa-bay-python/events/311858450/)
+- [Monday Study Group (Tampa Bay Python)](https://www.meetup.com/tampa-bay-python/events/311906938)
+
