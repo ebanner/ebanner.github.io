@@ -10,6 +10,13 @@ Here are some useful commands I keep referring back to beacuse I forget how to
 use them.
 
 <h3 style="margin-bottom: 0;">
+  <a href="/reference/mac-storage/">Mac storage</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Tools for managing Mac disk storage
+</p>
+
+<h3 style="margin-bottom: 0;">
   <a href="/reference/bc/">bc</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
