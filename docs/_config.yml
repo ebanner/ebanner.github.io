@@ -71,6 +71,9 @@ collections:
   reference:
     output: true
     permalink: /reference/:name/
+  posts:
+    output: true
+    permalink: /posts/:name/
   snippets:
     output: true
     permalink: /snippets/:name/
