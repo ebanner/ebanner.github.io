@@ -2,6 +2,7 @@
 layout: default
 title: Learning
 permalink: /learning/
+math: true
 ---
 
 <h1>Learning</h1>
@@ -53,7 +54,7 @@ permalink: /learning/
   <a href="https://www.youtube.com/watch?v=XesdKt4J6Zc">Implementing a Conditional Random Field in Python</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
-  How does a conditional random field compute p(DT, N, V | the dog barks)?
+  How does a conditional random field compute $p(\texttt{DT}, \texttt{N}, \texttt{V} | \texttt{the dog barks})$?
 </p>
 
 <h3 style="margin-bottom: 0;">
