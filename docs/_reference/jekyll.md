@@ -9,5 +9,5 @@ description: Important files
 Header file
 
 ```
-docs/_includes/header.html
+_includes/header.html
 ```
