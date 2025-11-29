@@ -8,6 +8,7 @@ permalink: /community/
 
 ## Videos
 
+- ![YouTube](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8mOoMjnCt8ZkqobhyjbBdQ-wlwbPODwJvA&s){:width="18" style="vertical-align:-3px;"} [How To Remove a GIF Background with GIMP](https://www.youtube.com/watch?v=81KhV6ceY1M&feature=youtu.be)
 - ![YouTube](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8mOoMjnCt8ZkqobhyjbBdQ-wlwbPODwJvA&s){:width="18" style="vertical-align:-3px;"} [AWS Cognito Custom OAuth Scopes for Multiple App Clients](https://youtu.be/PNQFAKgvhrs?si=QgNTEOuPFpR24BOr)
 - ![YouTube](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8mOoMjnCt8ZkqobhyjbBdQ-wlwbPODwJvA&s){:width="18" style="vertical-align:-3px;"} [How to quickly get started with the YouTube Search API](https://youtu.be/MI4ccHDFA_w?si=YD4tzFzf6rwvDlOF)
 - ![YouTube](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8mOoMjnCt8ZkqobhyjbBdQ-wlwbPODwJvA&s){:width="18" style="vertical-align:-3px;"} [Top Down Approach for Coding Interviews](https://youtu.be/Ob2rpkvsJWQ?si=KIne-BR2xUd-8WJl)
