@@ -9,6 +9,18 @@ math: true
 
 <h3 style="margin-bottom: 0;">
   <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/1489px-Google_Slides_logo_%282014-2020%29.svg.png"
+    width="18"
+    style="vertical-align:-3px; margin-right:4px;"
+  >
+  <a href="https://docs.google.com/presentation/d/1RcYzziUiDcpLuBvP9o_J5rhJzu1OxtaBaar00q331_A/edit?usp=sharing">Advent of Code 2024 day 21 part 2</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Understanding Advent of Code 2024's hardest problem
+</p>
+
+<h3 style="margin-bottom: 0;">
+  <img
     src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
     width="18"
     style="vertical-align:-3px; margin-right:4px;"
