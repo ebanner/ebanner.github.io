@@ -10,6 +10,13 @@ Here are some useful commands I keep referring back to beacuse I forget how to
 use them.
 
 <h3 style="margin-bottom: 0;">
+  <a href="/reference/git/">git</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Common git commands
+</p>
+
+<h3 style="margin-bottom: 0;">
   <a href="/reference/browsers/">Browsers</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
@@ -77,13 +84,6 @@ use them.
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
   Commands for inspecting binary files
-</p>
-
-<h3 style="margin-bottom: 0;">
-  <a href="/reference/git/">git</a>
-</h3>
-<p style="margin-top: 5px; color: #666; font-size: 16px;">
-  Common git commands
 </p>
 
 <h3 style="margin-bottom: 0;">
