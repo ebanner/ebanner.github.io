@@ -2,10 +2,12 @@
 layout: project
 title:  "Advent of Code Collaborative leaderboard"
 description: 🎄 Collaborative leaderboard, star alerts, and burnup chart for Advent of Code.
+date: 2025-03-03
 ---
 
 
 # Advent of Code Collaborative Leaderboard
+*{{ page.date | date: "%B %-d, %Y" }}*
 
 ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){:width="18" style="vertical-align: -3px;"} [GitHub project](https://github.com/ebanner/advent-of-code-leaderboard)
 
