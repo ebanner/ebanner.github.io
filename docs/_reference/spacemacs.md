@@ -6,6 +6,12 @@ description: Spacemacs shortcuts
 
 # Spacemacs
 
+`~/.spacemacs` file
+
+```
+SPC f e d
+```
+
 Home buffer
 
 ```
