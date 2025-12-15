@@ -10,6 +10,13 @@ Here are some useful commands I keep referring back to beacuse I forget how to
 use them.
 
 <h3 style="margin-bottom: 0;">
+  <a href="/reference/slime/">SLIME</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  SLIME keystrokes and functions
+</p>
+
+<h3 style="margin-bottom: 0;">
   <a href="/reference/spacemacs/">Spacemacs</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
