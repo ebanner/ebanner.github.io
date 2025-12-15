@@ -8,24 +8,34 @@ description: SLIME keystrokes and functions
 
 Start common lisp mode
 
-```emac-lisp
+```emacs-lisp
 SPC SPC common-lisp-mode
 ```
 
 Start SLIME repl
 
-```emac-lisp
+```emacs-lisp
 SPC m s i ; slime
+```
+
+Boilerplate
+
+```emacs-lisp
+(defpackage :my-playground
+  (:use :cl))
+
+(in-package :my-playground)
 ```
 
 Eval last sexp
 
-```emac-lisp
+```emacs-lisp
 C-x C-e ; slime-eval-last-expression
 ```
 
 Eval expression in repl
 
-```emac-lisp
+```emacs-lisp
 SPC m s e ; slime-eval-last-expression-in-repl
 ```
+
