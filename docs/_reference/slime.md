@@ -39,3 +39,10 @@ Eval expression in repl
 SPC m s e ; slime-eval-last-expression-in-repl
 ```
 
+Describe
+
+```emacs-lisp
+C-c C-d d ; slime-describe-symbol
+
+C-c C-d f ; slime-describe-function
+```
