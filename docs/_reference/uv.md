@@ -17,3 +17,9 @@ uv init
 ```
 uv add pandas
 ```
+
+## Add one-off dependency
+
+```
+uv add --dev pandas
+```
