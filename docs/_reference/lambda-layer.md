@@ -7,11 +7,12 @@ date: 2024-03-17
 
 # Making a Lambda Layer
 
-Create a new virtual environment
+Create a new virtual environment with `uv`
 
 ```
-python3 -m venv venv
-source venv/bin/activate
+uv init .
+uv venv --python 3.14
+uv pip install --python 3.14 slack-sdk
 ```
 
 Install the package in the virtual environment
@@ -24,7 +25,7 @@ Make a directory called `python` and move the `lib` directory in there
 
 ```
 mkdir python
-mv venv/lib python
+mv .venv/lib python
 ```
 
 Zip up python directory
