@@ -29,5 +29,5 @@ Here are some toy implementations of various machine learning models I've coded 
 
 |                    | Uninformed  | Informed       |
 | -------------------|-------------|----------------|
-| **Unweighted**     | DFS (recursive, stack), <br /> BFS (queue), <br /> Iterative Deepening | Greedy, A* |
+| **Unweighted**     | DFS (recursive, stack), <br /> BFS (queue), <br /> Iterative Deepening | |
 | **Weighted**       | UCS | Greedy, A* |
