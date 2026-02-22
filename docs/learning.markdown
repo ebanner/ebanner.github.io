@@ -8,6 +8,13 @@ math: true
 <h1>Learning</h1>
 
 <h3 style="margin-bottom: 0;">
+  <a href="/learning/ml/">Machine Learning</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Toy implementations of various machine learning models
+</p>
+
+<h3 style="margin-bottom: 0;">
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/1489px-Google_Slides_logo_%282014-2020%29.svg.png"
     width="18"
@@ -79,13 +86,6 @@ math: true
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
   Understanding John Carmack's Quake III fast inverse square root algorithm
-</p>
-
-<h3 style="margin-bottom: 0;">
-  <a href="/learning/ml/">Machine Learning</a>
-</h3>
-<p style="margin-top: 5px; color: #666; font-size: 16px;">
-  Toy implementations of various machine learning models
 </p>
 
 <h3 style="margin-bottom: 0;">
