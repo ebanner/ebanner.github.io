@@ -9,6 +9,10 @@ description: Racket scaffolding
 Macros
 
 ```racket
+(define-syntax-rule (>> n) (arithmetic-shift n -1))
+(define-syntax-rule (% n) (remainder n 2))
+(define-syntax-rule (≠ x y) (not (= x y)))
+
 (define-syntax for/string
   (syntax-rules ()
     [(_ clauses body ...)
@@ -19,13 +23,18 @@ Macros
   (syntax-rules ()
     [(_ x) x]
     [(_ x f rest ...) (~> (f x) rest ...)]))
-
-(define-syntax-rule (≠ x y) (not (= x y)))
 ```
 
 Utility functions
 
 ```racket
+(define (in-bits n)
+  (in-generator
+   (for/fold ([n n])
+             ([_ 32])
+     (yield (% n))
+     (>> n))))
+
 (define (in-pairs xs)
   (make-do-sequence
    (λ ()
