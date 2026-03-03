@@ -9,6 +9,17 @@ description: Racket scaffolding
 Macros
 
 ```racket
+(define-syntax for/string
+  (syntax-rules ()
+    [(_ clauses body ...)
+     (list->string
+      (for/list clauses body ...))]))
+
+(define-syntax ~>
+  (syntax-rules ()
+    [(_ x) x]
+    [(_ x f rest ...) (~> (f x) rest ...)]))
+
 (define-syntax-rule (≠ x y) (not (= x y)))
 ```
 
