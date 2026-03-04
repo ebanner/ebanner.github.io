@@ -11,7 +11,6 @@ Macros
 ```racket
 (define-syntax-rule (>> n) (arithmetic-shift n -1))
 (define-syntax-rule (% n) (remainder n 2))
-(define-syntax-rule (≠ x y) (not (= x y)))
 
 (define-syntax for/string
   (syntax-rules ()
@@ -23,11 +22,20 @@ Macros
   (syntax-rules ()
     [(_ x) x]
     [(_ x f rest ...) (~> (f x) rest ...)]))
+
+(define-syntax-rule (≠ x y) (not (= x y)))
 ```
 
 Utility functions
 
 ```racket
+(define (in-digits n)
+  (in-generator
+   (let loop ([n n])
+     (when (positive? n)
+       (yield (% n))
+       (loop (>> n))))))
+
 (define (in-bits n)
   (in-generator
    (for/fold ([n n])
