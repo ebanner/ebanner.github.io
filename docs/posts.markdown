@@ -7,6 +7,16 @@ permalink: /posts/
 <h1>Posts</h1>
 
 <h3 style="margin-bottom: 0;">
+  <a href="/posts/aoc-input-parsing/">Advent of Code Input Parsing</a>
+</h3>
+<p style="margin: 4px 0 0; color: #999; font-size: 14px;">
+  Feb 22, 2026
+</p>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Parsing input in Advent of Code
+</p>
+
+<h3 style="margin-bottom: 0;">
   <a href="/posts/gradients/">Gradient flow in neural networks</a>
 </h3>
 <p style="margin: 4px 0 0; color: #999; font-size: 14px;">
