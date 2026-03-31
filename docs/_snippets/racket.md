@@ -23,6 +23,23 @@ Macros
     [(_ x) x]
     [(_ x f rest ...) (~> (f x) rest ...)]))
 
+(define-syntax for/any
+  (syntax-rules ()
+    [(_ clauses body ...)
+     (for/or clauses body ...)]))
+
+(define-syntax for/sum*
+  (syntax-rules ()
+    [(_ clauses body ...)
+     (for/sum clauses
+       (if (and body ...) 1 0))]))
+
+(define-syntax for*/sum*
+  (syntax-rules ()
+    [(_ clauses body ...)
+     (for*/sum clauses
+       (if (and body ...) 1 0))]))
+
 (define-syntax (for/fold* stx)
   (syntax-case stx ()
     [(_ (accs ...) ([var seq] ...) kw [c r] body ...)
