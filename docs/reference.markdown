@@ -10,6 +10,13 @@ Here are some useful commands I keep referring back to beacuse I forget how to
 use them.
 
 <h3 style="margin-bottom: 0;">
+  <a href="/reference/google-cloud/">Making a Google Cloud project</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  How to make a Google Cloud project to use Google APIs
+</p>
+
+<h3 style="margin-bottom: 0;">
   <a href="/reference/lean/">Lean</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
