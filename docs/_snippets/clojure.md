@@ -6,6 +6,12 @@ description: Clojure macros
 
 # Clojure
 
+Imports
+
+```clojure
+(require '[clojure.string :as str])
+```
+
 Macros
 
 ```clojure
