@@ -6,6 +6,12 @@ description: Haskell imports
 
 # Haskell
 
+Printing
+
+```haskell
+mapM_ putStrLn results
+```
+
 Maps
 
 ```haskell
