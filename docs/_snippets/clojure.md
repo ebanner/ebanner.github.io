@@ -15,6 +15,12 @@ Imports
 Macros
 
 ```clojure
+(defmacro map* [[f & args] coll]
+  `(map (partial ~f ~@args) ~coll))
+
+(defmacro filter* [[f & args] coll]
+  `(filter (partial ~f ~@args) ~coll))
+
 (defmacro reduce* [[acc init x coll] & body]
   `(reduce (fn [~acc ~x] ~@body) ~init ~coll))
 
