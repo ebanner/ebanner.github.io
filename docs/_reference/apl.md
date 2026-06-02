@@ -16,4 +16,6 @@ Output visualization
 
 ```apl
 ]box on -style=max
+
+]boxing off
 ```
