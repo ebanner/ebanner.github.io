@@ -38,16 +38,16 @@ Elixir-style function clauses
 
 ```clojure
 (def clauses [])
-(defmacro defclause [name args pred body]
+(defmacro defclause [name args pred & body]
   `(do
-     (defn ~name ~args
+     (defn ~name [& args#]
        (loop [[clause# & rest#] clauses]
-         (if (apply (:pred clause#) ~args)
-           (apply (:body clause#) ~args)
+         (if (apply (:pred clause#) args#)
+           (apply (:body clause#) args#)
            (recur rest#))))
 
      (let [clause# {:pred (fn ~args ~pred)
-                    :body (fn ~args ~body)}]
+                    :body (fn ~args ~@body)}]
 
        (def clauses (conj clauses clause#)))))
 
