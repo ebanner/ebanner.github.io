@@ -7,17 +7,17 @@ permalink: /snippets/
 # Code Snippets
 
 <h3 style="margin-bottom: 0;">
-  <a href="/snippets/clojure/">Clojure</a>
-</h3>
-<p style="margin-top: 5px; color: #666; font-size: 16px;">
-  Clojure macros
-</p>
-
-<h3 style="margin-bottom: 0;">
   <a href="/snippets/apl/">APL</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
   APL code snippets
+</p>
+
+<h3 style="margin-bottom: 0;">
+  <a href="/snippets/clojure/">Clojure</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Clojure macros
 </p>
 
 <h3 style="margin-bottom: 0;">

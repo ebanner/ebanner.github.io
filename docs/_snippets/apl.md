@@ -6,6 +6,14 @@ description: APL code snippets
 
 # APL
 
+Under `⍢`
+
+```apl
+_U_ ← {⍵⍵⍣¯1⊢ ⍺⍺ ⍵⍵ ⍵}
+
+_U_ ← {⍺←{⍵ ⋄ ⍺⍺} ⋄ ⍵⍵⍣¯1⊢(⍵⍵ ⍺)⍺⍺(⍵⍵ ⍵)}
+```
+
 Use zero-indexing
 
 ```apl
