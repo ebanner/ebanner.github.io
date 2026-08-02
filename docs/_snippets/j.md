@@ -4,10 +4,16 @@ title:  "j"
 description: J code snippets
 ---
 
-# J
+# J (JPL)
 
-Fixed point scan (JPL)
+Fixed point scan
 
 ```apl
-{y÷2} ⍣ ⍬ ⊢ 55
+{⍵÷2} ⍣ ⍬ ⊢ 55
+```
+
+Power scan with condition
+
+```apl
+{⍵÷2} ⍣ {⍵≥1} ⍣ ⍬ ⊢ 10
 ```
