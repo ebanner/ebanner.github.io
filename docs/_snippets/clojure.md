@@ -6,6 +6,13 @@ description: Clojure macros
 
 # Clojure
 
+Emacs
+
+```emacs
+M-x cider-jack-in RET
+SPC m s a ; cider-switch-to-repl-buffer
+```
+
 Imports
 
 ```clojure
