@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "j"
-description: J code snippets
+title:  "jpl"
+description: JPL code snippets
 ---
 
-# J (JPL)
+# JPL
 
 Fixed point scan
 
@@ -21,13 +21,13 @@ Power scan with condition
 Amend
 
 ```apl
-1 (<1 1) ⊙ 3 3 ⍴ 0
+1 (<1 1) ⊙ 3 3⍴0
 ```
 
 Stencil
 
 ```apl
-2 2 < ⌺ ¯3 ⊢ 3 3 ⍴ 0
+2 2 < ⌺ ¯3 ⊢ 3 3⍴0
 ```
 
 Counts
