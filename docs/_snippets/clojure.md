@@ -22,22 +22,14 @@ Imports
 Macros
 
 ```clojure
+(defmacro reduce* [init coll f]
+  `(reduce ~f ~init ~coll))
+
 (defmacro map* [[f & args] coll]
   `(map (partial ~f ~@args) ~coll))
 
 (defmacro filter* [[f & args] coll]
   `(filter (partial ~f ~@args) ~coll))
-
-(defmacro reduce* [[acc init x coll] & body]
-  `(reduce (fn [~acc ~x] ~@body) ~init ~coll))
-
-(defmacro reduce* [init [x coll] & body]
-  (let [acc-names (map name (keys init))
-        acc-syms  (map symbol acc-names)]
-    `(reduce (fn [{:keys [~@acc-syms]} ~x]
-               ~@body)
-             ~init
-             ~coll)))
 ```
 
 Elixir-style function clauses
