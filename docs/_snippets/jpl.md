@@ -35,3 +35,15 @@ Counts
 ```apl
 (↑,≢) ⌸⍨ 1 2 1 2 1
 ```
+
+Inverse/obverse
+```
+str ← '24:00'
+
+split ← chopstring
+join ← {(⍕0⌷⍵),⍺,(⍕1⌷⍵)}
+
+serde ← ((60∘⊥) ⍤ ((⍎¨)⇔(⍕¨)) ⍤ ((':'∘split)⇔(':'∘join)))
+
+3 {÷∘⍺⍢serde⍵} str
+```
