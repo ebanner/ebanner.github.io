@@ -24,7 +24,7 @@ Amend
 1 (<1 1) ⊙ 3 3⍴0
 ```
 
-Stencil
+Stencil (no padding)
 
 ```apl
 2 2 < ⌺ ¯3 ⊢ 3 3⍴0
