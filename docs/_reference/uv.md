@@ -23,3 +23,9 @@ uv add pandas
 ```
 uv add --dev pandas
 ```
+
+## Run one off with a library
+
+```
+uv run --with pandas main.py
+```
