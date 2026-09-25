@@ -7,6 +7,13 @@ permalink: /snippets/
 # Code Snippets
 
 <h3 style="margin-bottom: 0;">
+  <a href="/snippets/prolog/">Prolog</a>
+</h3>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Prolog code snippets
+</p>
+
+<h3 style="margin-bottom: 0;">
   <a href="/snippets/jpl/">JPL</a>
 </h3>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
