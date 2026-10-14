@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Weak Vertices"
-description: Understanding Kattis Weak Vertices in APL
+description: Understanding a vectorized solution to the Weak Vertices Kattis problem
 date: 2026-06-25
 permalink: /posts/weak-vertices/
 math: true

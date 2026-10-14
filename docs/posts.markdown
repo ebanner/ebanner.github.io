@@ -13,7 +13,7 @@ permalink: /posts/
   June 25, 2026
 </p>
 <p style="margin-top: 5px; color: #666; font-size: 16px;">
-  Understanding the Kattis Weak Vertices problem
+  Understanding a vectorized solution to the Weak Vertices Kattis problem
 </p>
 
 <h3 style="margin-bottom: 0;">
