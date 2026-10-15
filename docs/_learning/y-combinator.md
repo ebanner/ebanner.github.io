@@ -102,9 +102,28 @@ $$
 \end{align}
 $$
 
+## Racket implementation[^1]
+
+```racket
+#lang lazy
+
+(define Y
+  (λ (f)
+    ((λ (x) (f (x x)))
+     (λ (x) (f (x x))))))
+
+(define F
+  (Y (λ (f)
+       (λ (n)
+         (if (= n 0) 1 (* n (f (- n 1))))))))
+
+(F 5) ; 120
+```
+
 ## Helpful resources
 
 - [Essentials: Functional Programming's Y Combinator - Computerphile](https://www.youtube.com/watch?v=9T8A89jgeTI)
 - ChatGPT
 - [The Y Combinator (no, not that one) - Ayaka Nonaka](https://medium.com/@ayanonagon/the-y-combinator-no-not-that-one-7268d8d9c46)
 
+[^1]: Credit to Claude.
