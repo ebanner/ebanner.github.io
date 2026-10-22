@@ -7,6 +7,16 @@ permalink: /posts/
 <h1>Posts</h1>
 
 <h3 style="margin-bottom: 0;">
+  <a href="/posts/weather-probability-problem/">Weather probability</a>
+</h3>
+<p style="margin: 4px 0 0; color: #999; font-size: 14px;">
+  October 15, 2026
+</p>
+<p style="margin-top: 5px; color: #666; font-size: 16px;">
+  Diving deep in a problem on weather probability
+</p>
+
+<h3 style="margin-bottom: 0;">
   <a href="/posts/weak-vertices/">Weak Vertices</a>
 </h3>
 <p style="margin: 4px 0 0; color: #999; font-size: 14px;">
