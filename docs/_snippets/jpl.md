@@ -40,10 +40,7 @@ Inverse/obverse
 ```
 str ← '24:00'
 
-split ← chopstring
-join ← {(⍕0⌷⍵),⍺,(⍕1⌷⍵)}
-
-serde ← ((60∘⊥) ⍤ ((⍎¨)⇔(⍕¨)) ⍤ ((':'∘split)⇔(':'∘join)))
+serde ← ((60∘⊥) ⍤ ((⍎¨)⇔(⍕¨)) ⍤ ((':'∘chopstring)⇔(':'∘joinstring)))
 
 3 {÷∘⍺⍢serde⍵} str
 ```
