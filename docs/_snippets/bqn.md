@@ -6,6 +6,12 @@ description: BQN code snippets
 
 # BQN
 
+Figure out the number of columns
+
+```bqn
+2‿∘⥊𝕩
+```
+
 Get all subarrays
 
 ```bqn
